@@ -1,48 +1,26 @@
-# Product Name
+# M5Unit-V2-AICamera Series
+
+<img src="https://static-cdn.m5stack.com/resource/docs/products/unit/unitv2/unitv2_01.webp" alt= “U078-D” width="200"><img src="https://static-cdn.m5stack.com/resource/docs/products/unit/unitv2_m12/unitv2_m12_01.webp" alt= “U078-M12” width="200"><img src="https://static-cdn.m5stack.com/resource/docs/products/unit/unitv2_usb/unitv2_usb_01.webp" alt= “U078-USB” width="200">
 
 ## Overview
 
-### SKU:xxx
+### SKU:U078-D/U078-M12/U078-USB
 
-Description of the product
-
-## Related Link
-
-- [Document & Datasheet](https://docs.m5stack.com/en/unit/product_Link)
-
-## Required Libraries:
-
-- [Adafruit_BMP280_Library](https://github.com/adafruit/Required_Libraries_Link)
-
-## License
-
-- [Product Name- MIT](LICENSE)
-
-## Remaining steps(Editorial Staff Look,After following the steps, remember to delete all the content below)
-
-1. Change [clang format check path](./.github/workflows/clang-format-check.yml#L9-L15).
-2. Add License content to [LICENSE](/LICENSE).
-3. Change link on line 78 of [bug-report.yml](./.github/ISSUE_TEMPLATE/bug-report.yml#L78).
-
-```cpp
-Example
-# M5Unit-ENV
-
-## Overview
-
-### SKU:U001 & U001-B & U001-C
-
-Contains M5Stack-**UNIT ENV** series related case programs.ENV is an environmental sensor with integrated SHT30 and QMP6988 internally to detect temperature, humidity, and atmospheric pressure data.
+UnitV2 is a high-efficiency AI recognition module launched by M5Stack, using Sigmstar SSD202D (integrated dual-core Cortex-A7 1.2GHz processor) control core, integrated 128MB-DDR3 memory, 512MB NAND Flash, and 1080P camera. With embedded Linux operating system and rich software and hardware resources and development tools integrated, UnitV2 is committed to bringing users a simple and efficient AI development experience out of the box.
 
 ## Related Link
 
-- [Document & Datasheet](https://docs.m5stack.com/en/unit/envIII)
+### Document & Datasheet
+
+- [U078-D](https://docs.m5stack.com/zh_CN/unit/unitv2)
+- [U078-M12](https://docs.m5stack.com/zh_CN/unit/unitv2_m12)
+- [U078-USB](https://docs.m5stack.com/zh_CN/unit/unitv2_usb)
 
 ## Required Libraries:
 
-- [Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library)
+- [UnitV2Framework](https://github.com/m5stack/UnitV2Framework)
 
 ## License
 
-- [M5Unit-ENV - MIT](LICENSE)
-```
+- [M5Unit-V2-AICamera- MIT](LICENSE)
+
